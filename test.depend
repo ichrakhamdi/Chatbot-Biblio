@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1621451264 source:c:\users\msi\desktop\test\test\main.cpp
+	"main.h"
+	"etudiant.h"
+	<string>
+	<iostream>
+
+1621610112 source:c:\users\msi\desktop\test\test\etudiant.cpp
+	"etudiant.h"
+	"main.h"
+	<iostream>
+
+1621549323 source:c:\users\msi\desktop\test\test\book.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"book.h"
+
+1621563273 c:\users\msi\desktop\test\test\etudiant.h
+	<bits/stdc++.h>
+	<string>
+	<iostream>
+
+1621451266 c:\users\msi\desktop\test\test\main.h
+	"book.h"
+	"etudiant.h"
+
+1621597520 c:\users\msi\desktop\test\test\book.h
+	<string>
+	<iostream>
+
+1621283893 source:c:\users\msi\desktop\test\test\ok.cpp
+	<iostream>
+	"main.h"
+
+1621338901 source:c:\users\msi\desktop\test\test\adminisration.cpp
+	<iostream>
+	"main.h"
+
+1621597665 source:c:\users\msi\desktop\test\test\affichage.cpp
+	<fstream>
+	<string.h>
+	<iostream>
+	"main.h"
+
